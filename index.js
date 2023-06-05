@@ -5,7 +5,7 @@ const app = express();
 
 
 app.get('/',(req,res)=>{
-    res.status(200).send("working Fine")
+    res.status(200).send("working Fie")
 })
 
 app.listen(3000,()=>{
